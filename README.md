@@ -4,11 +4,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosxin-456&label=Profile%20views&color=0e75b6&style=flat" alt="tosxin-456" /> </p>
 
-<img src="https://komarev.com/ghpvc/?username=Desmond-FOn&style=flat-square&color=blue" alt=""/>
-
-
-</div>
-
 - 🔭 I’m currently working on [solar system](https://top-planet.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://topins.disha.page/](https://topins.disha.page/)

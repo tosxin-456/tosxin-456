@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Topinns   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h3 align="center">A passionate fullstack developer</h3>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ <div width = "100%"> 
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" margin = "auto"/>
+   <div/>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosxin-456&label=Profile%20views&color=0e75b6&style=flat" alt="tosxin-456" /> </p>
 
 - 🔭 I’m currently working on [solar system](https://top-planet.vercel.app/)

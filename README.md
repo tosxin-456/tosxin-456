@@ -4,7 +4,6 @@
 
 <div style=" width: 100%; background: white; display: flex; justify-content: center; align-items: center;"> 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width: 50%; margin: auto; display: block;" alt="Animated GIF" />
-//<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosxin-456&label=Profile%20views&color=0e75b6&style=flat" alt="tosxin-456" /> </p>
 

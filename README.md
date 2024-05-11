@@ -69,11 +69,11 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tosxin-456&theme=tokyonight)](https://git.io/streak-stats)
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desmond-Fon&hide=contribs,prs&theme=tokyonight&background=000000&show_icons=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosxin-456layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosxin-456&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture >
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=tosxin-456show_icons=true&theme=tokyonight"
+  srcset="https://github-readme-stats.vercel.app/api?username=tosxin-456&show_icons=true&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
 />
 <source

@@ -1,10 +1,45 @@
-<h1 align="center">Hi there, I'm Topinns   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div id="header" align="center">
+  <h1>
+  Hey there!!, I'm Topinns
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3 align="center">A passionate fullstack developer</h3>
-
-<div style=" width: 100%; background: white; display: flex; justify-content: center; align-items: center;"> 
-  <img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width: 50%; margin: auto; display: block;" alt="Animated GIF" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/shallom-ekundayo-42bb35241/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/shallomekundayo">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=Desmond-FOn&style=flat-square&color=blue" alt=""/>
+
+
+</div>
+
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ </div> -->
+ 
+  ---
+
+### :man_technologist: About Me :
+
+  
+  I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+  
+  - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+
+- :seedling: Exploring Technical Content Writing and Mentorship.
+
+- :zap: In my free time, I solve problems on frontend-mentor, leetcode, code signal, read tech articles play chess and sing.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shallom-ekundayo-42bb35241/)
+
+---
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosxin-456&label=Profile%20views&color=0e75b6&style=flat" alt="tosxin-456" /> </p>
 
 - 🔭 I’m currently working on [solar system](https://top-planet.vercel.app/)

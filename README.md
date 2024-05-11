@@ -67,6 +67,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tosxin-456&show_icons=true&locale=en&layout=compact" alt="tosxin-456" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tosxin-456&show_icons=true&locale=en" alt="tosxin-456" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tosxin-456&" alt="tosxin-456" /></p>
+<picture >
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=tosxin-456&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=tosxin-456&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=tosxin-456&show_icons=true&text_color=00fe99" />
+</picture>

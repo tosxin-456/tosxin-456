@@ -1,12 +1,8 @@
-<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/Topinns.png" /></a></p>
+<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/Topinns.png" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></a></p>
 
 <br />
 
 <div id="header" align="center">
-  <h1>
-  Hey there!!, I'm Topinns
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">

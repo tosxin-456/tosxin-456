@@ -1,6 +1,5 @@
-<div id = "badges">
+<div >
 <p align="center"><a href="#"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="./assets/Topinns.png" /></a></p>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR  4ia7z/giphy.gif" width="30px"/>
 </div>
 <br />
 

@@ -13,6 +13,7 @@
   <a href="https://twitter.com/shallomekundayo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <a>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosxin-456&label=Profile%20views&color=0e75b6&style=flat" alt="tosxin-456" /> </p></a>
 </div>
 
 </div>
@@ -37,7 +38,6 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shallom-ekundayo-42bb35241/)
 
 ---
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosxin-456&label=Profile%20views&color=0e75b6&style=flat" alt="tosxin-456" /> </p>
 
 - 🔭 I’m currently working on [solar system](https://top-planet.vercel.app/)
 

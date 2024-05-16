@@ -7,14 +7,16 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-  <a href="https://www.linkedin.com/in/shallom-ekundayo-42bb35241/">
+  <a href="https://www.linkedin.com/in/desmond-fon-88aa88253/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/shallomekundayo">
+  <a href="https://twitter.com/DezmondFon">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-     <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosxin-456&label=Profile%20views&color=0e75b6&style=flat" alt="tosxin-456" /> </p>
+
+<img src="https://komarev.com/ghpvc/?username=Desmond-FOn&style=flat-square&color=blue" alt=""/>
+
 
 </div>
 

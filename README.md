@@ -2,8 +2,6 @@
 <p align="center"><a href="#"><img width="80%" alt="Hello, I'm Topinns. I do open source!" src="./assets/Topinns.png" /></a></p>
 </div>
 <br />
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   

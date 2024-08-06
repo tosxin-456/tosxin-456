@@ -42,7 +42,7 @@
 
 - 🔭 I’m currently working on [solar system](https://top-planet.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://topins.disha.page/](https://topins.disha.page/)
+- 👨‍💻 All of my projects are available at [https://topinns.netlify.app/](https://topinns.netlify.app/)
 
 - 💬 Ask me about **react , tailwind, express, nest, chakra ui, vanilla,**
 

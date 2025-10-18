@@ -81,3 +81,6 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=tosxin-456&show_icons=true&text_color=00fe99" />
 </picture>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tosxin-456/tosxin-456/output/snake.svg" alt="Snake animation" />
